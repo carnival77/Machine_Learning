@@ -1,0 +1,329 @@
+[33mcommit 1a50cf0d4ab832277deac3f027d7ea6e521ddc7b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: carnival77 <stam0325@hanmail.net>
+Date:   Tue Apr 28 21:04:12 2020 +0900
+
+    add assignment6
+
+[33mcommit f4dd8ea467f33f733853abdb6dfb8cea35ac163c[m
+Author: carnival77 <stam0325@hanmail.net>
+Date:   Tue Apr 28 20:36:56 2020 +0900
+
+    Revert "Colaboratory를 통해 생성됨"
+    
+    This reverts commit a40de6e18b8cd83a6890193afb83510ee36e881a.
+
+[33mcommit 6d687c68d08d492ca324b27ab1fde137482f5c65[m
+Merge: 48745e1 b18b7f9
+Author: carnival77 <stam0325@hanmail.net>
+Date:   Tue Apr 28 20:25:11 2020 +0900
+
+    Merge branch 'master' of https://github.com/carnival77/Machine_Learning
+
+[33mcommit b18b7f98b47f5fa2946c0b0f760718e1cc6e4b5e[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Tue Apr 28 20:22:32 2020 +0900
+
+    6. Plot the optimal classifier superimposed on the training data
+
+[33mcommit 4307dbf9b118c1ad3139bd986579642f50973bc5[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Tue Apr 28 15:29:33 2020 +0900
+
+    4. Plot the training accuracy + 5. Write down the final training accuracy
+
+[33mcommit a40de6e18b8cd83a6890193afb83510ee36e881a[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Tue Apr 28 15:26:55 2020 +0900
+
+    Colaboratory를 통해 생성됨
+
+[33mcommit 363627d35eb085d5f1852ff154d2f719fb05155b[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Mon Apr 27 15:56:40 2020 +0900
+
+    3. Plot the training error
+
+[33mcommit 9473bd48616b292cf81e4dd7409d14faa4a94351[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Mon Apr 27 15:55:36 2020 +0900
+
+    2. Write down the high dimensional function g(x,y;θ)
+
+[33mcommit 092a3d753c0229135157c0a1c1e52ad570cb2207[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Mon Apr 27 10:12:09 2020 +0900
+
+    1. Plot the training data
+
+[33mcommit 122abd1c39efc7b011f71b31762cf3cb0c07023e[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Mon Apr 27 10:04:55 2020 +0900
+
+    assignment6 - first commit
+
+[33mcommit df912169b520eabea244ac3e2e57daccc233b3d6[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Wed Apr 22 15:53:33 2020 +0900
+
+    arrange
+
+[33mcommit 48745e11c8d92844897003fa517d9b5d16a8a1fe[m
+Merge: 14ef1be 758c4ff
+Author: carnival77 <stam0325@hanmail.net>
+Date:   Tue Apr 21 19:15:48 2020 +0900
+
+    Merge branch 'master' of https://github.com/carnival77/Machine_Learning
+
+[33mcommit 14ef1be7b03824a34f2f6b5a38c5bc7789862b49[m
+Author: carnival77 <stam0325@hanmail.net>
+Date:   Tue Apr 21 17:25:21 2020 +0900
+
+    arrange
+
+[33mcommit 758c4ffae1cd0f96f038b0e8f75bbd0b0298ea1c[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Tue Apr 21 17:23:18 2020 +0900
+
+    4. Plot the obtained classifier
+
+[33mcommit 918941c3af9e52b0ec6a4d0bb9c50e97310184e1[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Tue Apr 21 17:21:32 2020 +0900
+
+    4. Plot the obtained classifier
+
+[33mcommit 42d5c55a6afe8e15da617938e38958bc8ed49db7[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Mon Apr 20 17:26:17 2020 +0900
+
+    3. Plot the training error
+
+[33mcommit d2723e3b572be6101ab124622409bcb5bb1fa929[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Mon Apr 20 17:22:44 2020 +0900
+
+    2. Plot the estimated parameters
+
+[33mcommit d2d555687741016c39e10f0619be417edd5e090d[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Mon Apr 20 10:52:12 2020 +0900
+
+    1. Plot the training data
+
+[33mcommit 6ed8a734ecf536425a11b7a3a2575d5380db1fb4[m
+Author: carnival77 <stam0325@hanmail.net>
+Date:   Mon Apr 20 10:51:17 2020 +0900
+
+    assignment5
+
+[33mcommit bd61bba9768a543fe8e0b26aa126b5a812c39ec9[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Mon Apr 20 10:36:40 2020 +0900
+
+    1. Plot the training data
+
+[33mcommit 146517b4591c59316e6e9d008180e6ff49137b6d[m
+Author: carnival77 <stam0325@hanmail.net>
+Date:   Tue Apr 14 17:15:42 2020 +0900
+
+    rearrange 2
+
+[33mcommit 910992c7bcdb8699d8ad6dfb9b6550429e2d80e1[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Tue Apr 14 16:53:37 2020 +0900
+
+    3. Plotting the testing error
+
+[33mcommit 1330e9db109e09ccd95012ebce1424999375cc5d[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Tue Apr 14 14:42:27 2020 +0900
+
+    2. Plotting the training error
+
+[33mcommit a839e38955b4f319a6a836a132bc9e6db16ec4f4[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Tue Apr 14 14:33:37 2020 +0900
+
+    1. Plotting the estimated parameters
+
+[33mcommit 36bab176d543881bf53239e4ea315f80a2db213d[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Mon Apr 13 16:08:13 2020 +0900
+
+    first commit
+
+[33mcommit 1b64dcdfc3d66647ec421cb69c14fb0d89d9f516[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Fri Apr 10 14:34:57 2020 +0900
+
+    Plotting the optimization path
+
+[33mcommit 5cf752c3ac88c4838c1d26883770895bed7b8443[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Thu Apr 9 22:34:23 2020 +0900
+
+    change linewidth
+
+[33mcommit 63ed746083ffca8dae4ed0b8233bdfade22200dd[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Thu Apr 9 22:31:42 2020 +0900
+
+    Plotting the optimization path - change path from scatter to a line
+
+[33mcommit ac3b636251c052c40c29d1ae5c524245a5b80557[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Thu Apr 9 20:44:10 2020 +0900
+
+    Plotting the optimization path
+
+[33mcommit 21d1d1a09eb4962c137d18cc8f8de289838fd131[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Thu Apr 9 17:53:27 2020 +0900
+
+    Finishing plotting the optimization path concretely
+
+[33mcommit ad499823694abf8c7480d8e8e8f46f1310143424[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Thu Apr 9 16:00:24 2020 +0900
+
+    Solving Plotting the optimization path
+
+[33mcommit 02da82bf7bb0b094159cc3349ed5f1e917f0ab73[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Thu Apr 9 14:02:26 2020 +0900
+
+    Plotting the energy surface_정리
+
+[33mcommit a8257e5def09663f6dd4c20686a6bbfe582dac29[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Thu Apr 9 12:18:47 2020 +0900
+
+    Plotting the energy surface
+
+[33mcommit d52d48b137d8b0960f3179b2fbd87818535dfc04[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Thu Apr 9 10:23:50 2020 +0900
+
+    solving prob 3
+
+[33mcommit 97e163552fa619ab6f32f46f3c7611e0b8b23a47[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Wed Apr 8 13:19:17 2020 +0900
+
+    Plotting the linear regression result _ 수정
+
+[33mcommit 385957a1b9253f269b6950541b2b0ad8b4291997[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Wed Apr 8 13:17:23 2020 +0900
+
+    Plotting the linear regression result
+
+[33mcommit 2ffc8e39abdb2fb85f5794c44ba63b1553ba751f[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Wed Apr 8 11:58:52 2020 +0900
+
+    Plotting the input data
+
+[33mcommit 17c1bc399d4a4b32ed05a58fe54296da6373bbe2[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Wed Apr 8 11:47:44 2020 +0900
+
+    first commit
+
+[33mcommit ca843b53402abb0fc5f0db5d92a3a7dbae9ebbd4[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Wed Apr 1 16:15:03 2020 +0900
+
+    Final result. Plotting all things
+
+[33mcommit 04f15833af3a2fbbc297ec3f479344b2c2af7ad5[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Wed Apr 1 16:11:24 2020 +0900
+
+    fixed wrong numbers and linear function. deleted remarks
+
+[33mcommit b86ad2d262b8c4013c5a017d2db558b0ec3e078e[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Tue Mar 31 09:03:05 2020 +0900
+
+    Plotting the model parameters
+
+[33mcommit 1db61b36a27ecbfe53098285c6f0c4732cc89c41[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Tue Mar 31 09:00:54 2020 +0900
+
+    Plotting the energy values
+
+[33mcommit aaf4ef73b37eea4ab5a10e8c9e2a115700ec08e9[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Tue Mar 31 08:59:31 2020 +0900
+
+    Plotting the output results
+
+[33mcommit 7e5b6a00255e41a3c54182a22a4d8310a2f6e892[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Tue Mar 31 08:57:29 2020 +0900
+
+    Plotting the input data
+
+[33mcommit 431d11af57076a73a525398964c9729d027befa7[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Mon Mar 30 22:15:25 2020 +0900
+
+    Plotting the model parameters
+
+[33mcommit 57e8082296ec545efc564e638e3444a1187fd997[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Mon Mar 30 21:22:07 2020 +0900
+
+    Plotting the energy values
+
+[33mcommit 6a6363274342377fb4c92b97bce763ba974cc896[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Mon Mar 30 20:57:40 2020 +0900
+
+    Plotting the energy values
+
+[33mcommit 4a27101541291f4975bc31aac8d835de7f390b5f[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Mon Mar 30 20:23:08 2020 +0900
+
+    Plotting the output results
+
+[33mcommit 55839f445671a43b7ee9f6177154fc035d5a4a72[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Mon Mar 30 17:14:27 2020 +0900
+
+    Plotting the output results
+
+[33mcommit 3caa2847b29094b0ce9306360bdf45c2bcf395c5[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Mon Mar 30 16:22:28 2020 +0900
+
+    Plotting the input data
+
+[33mcommit 334859020bd01e3b93db3753d69de98bd434831e[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Mon Mar 30 16:19:53 2020 +0900
+
+    Delete Assignment2.ipynb
+    
+    wrong error
+
+[33mcommit d73d0ebb72d65a8b039a763906fa53c80a7f8bd0[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Mon Mar 30 16:16:06 2020 +0900
+
+    Plotting the input data
+
+[33mcommit e27073badf78cf811ccc6c196b1acae1a3b747d0[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Sun Mar 29 16:20:42 2020 +0900
+
+    Colaboratory를 통해 생성됨
+
+[33mcommit 91784032dd5e457f0232bb7b9b97293a3e868bf5[m
+Author: carnival77 <52997401+carnival77@users.noreply.github.com>
+Date:   Fri Mar 27 13:04:27 2020 +0900
+
+    Initial commit
